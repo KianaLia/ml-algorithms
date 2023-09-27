@@ -16,3 +16,10 @@ I every part of the project, a different Machine Learning algorithm is implement
 * **ex7** : K-means clustering and applying it to compress an image. In the second part, a principal component analysis is used to to find a low-dimensional representation of face images.
 * **ex8** : an implementation of Anomaly Detection algorithm for detecting failing servers on a network. In the second part, a collaborative Filtering based movie recommender system is implemented.
 
+## How to use
+
+in every folder, there is a .m file with the same name as the folder (for example ex1.m in ex1 folder). this file is the main file and all implemented modules are used in this file respectively. So you can run each project by running the main file as follows:
+
+```bash
+  ex[number].m
+```
